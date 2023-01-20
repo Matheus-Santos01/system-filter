@@ -13,8 +13,8 @@
 <br>
 
 <p align="center">
-  <img alt="projeto sistema de filtragem" src="./.github/not-filtered.png" width="40%">
-  <img alt="projeto sistema de filtragem" src="./.github/filtered.png" width="40%">
+  <img alt="projeto sistema de filtragem" src="./.github/not-filtered.png" width="45%">
+  <img alt="projeto sistema de filtragem" src="./.github/filtered.png" width="45%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Projeto criado com intuito de aprender a filtrar elementos da página através do conteúdo de um input, feito com JavaScript
 Muito divertido e simples o projeto, com certeza vai útil em projetos futuros.
 
-- [Acesse o projeto finalizado, online](https://my-links-me.vercel.app/)
+- [Acesse o projeto finalizado, online](https://system-filter.vercel.app/)
 
 ## :memo: Licença
 
